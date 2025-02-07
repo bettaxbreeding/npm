@@ -50,11 +50,7 @@ function license() {
         } else return '';
     }
 
-    function _0x3a4ce3(_0x38ecee) {
-        var _0x2a0ccb = _0x59d5,
-            _0xa1eacd = _0x2a0ccb(0x28d) + _0x38ecee + _0x2a0ccb(0x2f7) + $license_item + '\" target=\"_blank\" style=\"opacity:.7;font-size:70%;letter-spacing:1px;\">https://template.web.id</a>                </div>            </div>        ';
-        return document[_0x2a0ccb(0x1ed)][_0x2a0ccb(0x341)] = _0xa1eacd;
-    }
+    function _0x3a4ce3(_0x38ecee) 
     if (typeof $license_key === _0x353adc(0x2fb)) _0x3a4ce3(_0x353adc(0x186));
     else {
         if (typeof $license_item === _0x353adc(0x2fb)) _0x3a4ce3(_0x353adc(0x34b));
